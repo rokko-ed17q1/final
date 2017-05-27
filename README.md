@@ -1,16 +1,14 @@
-# final: Economic Dynamics (2017Q1)
+Deadline and submission
+-----------------------
 
-Publish: 2017-05-29 15:00:00  
-Due: 2017-06-09 18:00:00
+9 June 2017, 18:00, late submission not accepted.
 
-## Purpose
+Submit the assignment to your repository's `master` branch. The last commit pushed (merged) into `master` before the deadline will be assessed.
 
-Final Report
+Assignment
+----------
 
-## Assignment Overview
+-   Complete **lrem** project.
+-   Write and build vignettes similar to [lrem-hansen-rbc.html](lrem-hansen-rbc.html).
 
-
-
-## Need help?
-
-If you have questions about this assignment, ask on Slack giving us the repository name, final. Alternatively, you can open an issue for the [base repository](https://github.com/rokko-ed17q1/final/issues). 
+Read `problem.pdf` for more details.
